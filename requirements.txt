@@ -1,0 +1,5 @@
+# Terminal UI
+rich>=13.7.0
+
+# Environment variables from .env
+python-dotenv>=1.0.1
